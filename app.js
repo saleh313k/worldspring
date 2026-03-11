@@ -139,8 +139,8 @@
 
     // Update page title
     document.title = lang === 'ar'
-      ? 'ربیع العالم للاستثمار — مسقط، عُمان'
-      : 'World Spring Investment — Muscat, Oman';
+      ? 'ربیع العالم للاستثمار — تصميم مواقع الويب في سلطنة عمان'
+      : 'World Spring Investment — Web Design Oman';
   }
 
   function toggleLanguage() {
