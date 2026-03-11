@@ -139,7 +139,7 @@
 
     // Update page title
     document.title = lang === 'ar'
-      ? 'وورلد سبرينج للاستثمار — مسقط، عُمان'
+      ? 'ربیع العالم للاستثمار — مسقط، عُمان'
       : 'World Spring Investment — Muscat, Oman';
   }
 
